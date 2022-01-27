@@ -1,3 +1,9 @@
+# This is Apache-2.0 License (INFO2300)
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
 # This is README.md file with instructions (INFO2300)
 
 This is simple Angular project.
