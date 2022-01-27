@@ -1,3 +1,7 @@
+# This is README.md file with instructions (INFO2300)
+
+This is simple Angular project.
+
 # MyTestdemoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
